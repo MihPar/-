@@ -1,0 +1,16 @@
+body {
+    position: absolute;
+    left: 500px;
+    background: rgb(121, 66, 66);
+}
+h1 {
+    /* position: absolute;
+    left: 50px; */
+    border: 2px solid red;
+    background: rgb(48, 136, 131);
+    text-align: center;
+    width: 100%;
+}
+p {
+    font-size: 30px;
+}
