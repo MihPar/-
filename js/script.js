@@ -2,7 +2,7 @@ function clock() {
     const div = document.querySelector('div')
     div.style.fontSize = '24px'
     div.style.color = "yellow"
-    div.style.marginLeft = '150px'
+    div.style.marginLeft = '120px'
     let now = new Date()
     div.innerText = now.toLocaleTimeString()
 }
